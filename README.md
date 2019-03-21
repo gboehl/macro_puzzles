@@ -4,8 +4,8 @@ A collection of **"puzzles"** in macroeconomics
 
 This repo is collects puzzling evidence and open questions concering macroeconomic research. It aims to be a compilation of the contradictions between economic theory and the empirical evidence. Hopefully it will help us all (and motivated junior researchers) to focus on the importan questions and the big picture, and not to get lost in (technical) details. As such it has some similarity to the list of [Hilbert's Problems](https://en.wikipedia.org/wiki/Hilbert%27s_problems).
 
-Definition of a **puzzle**:
-> A contradiction between theoretical conjectures and empirical evidence
+Definition of a **puzzle** in this context:
+> A puzzle is a contradiction between theoretical conjectures and empirical evidence
 
 This list is tought to be constructive and **not** intended to be a one-sided critique on macroeconomics/DSGE models/rational Expectations as a whole. Please try to be concise and neutral. Put details like literature or links to potential solutions in separate files and not in the list directly.
 
