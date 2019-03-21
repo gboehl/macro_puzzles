@@ -1,5 +1,5 @@
 
-#List of Contributors
+# List of Contributors
 
 * Felix Strobel
 * Gregor Boehl
