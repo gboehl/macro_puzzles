@@ -2,12 +2,12 @@
 A collection of **"puzzles"** in macroeconomics
 ---
 
-This repo collects puzzling evidence and open questions in macroeconomic research. It aims to be a compilation of the contradictions between economic theory and the empirical evidence. Hopefully it will help us all (and motivated junior researchers) to focus on the importan questions and the big picture, and not to get lost in (technical) details. As such it has some similarity to the list of [Hilbert's Problems](https://en.wikipedia.org/wiki/Hilbert%27s_problems).
+This repo collects puzzling evidence and open questions in macroeconomic research. It aims to be a compilation of the contradictions between economic theory and the empirical evidence. Hopefully it will help us all (and motivated junior researchers) to focus on the important questions and the big picture. As such it has some similarity to the list of [Hilbert's Problems](https://en.wikipedia.org/wiki/Hilbert%27s_problems).
 
 Definition of a **puzzle** in this context:
 > A puzzle is a contradiction between theoretical conjectures and empirical evidence
 
-This list is tought to be constructive and **not** intended to be a one-sided critique on macroeconomics/DSGE models/rational Expectations as a whole. Please try to be concise and neutral. Put details like literature or links to potential solutions in separate files and not in the list directly.
+This list is thought to be constructive and **not** intended to be a one-sided critique on macroeconomics/DSGE models/rational Expectations/parapsychic mind control as a whole. Please try to be concise and neutral. If you want, you can put details like literature or links to potential solutions in a separate file.
 
 A non-exhaustive list
 ------
@@ -21,4 +21,4 @@ A non-exhaustive list
 * The Rational Expectations Puzzle: survey evidence contradicts the rational expectations hypothesis
 
 ---
-See [here](https://github.com/gboehl/macro_puzzles/blob/master/how-to-contribute.md) on how to add an item to the list, and have a look at the [list of contributors](https://github.com/gboehl/macro_puzzles/blob/master/contributors.md).
+See [here](https://github.com/gboehl/macro_puzzles/blob/master/how-to-contribute.md) on how to add an item to the list, and have a look at (and admire) the [list of contributors](https://github.com/gboehl/macro_puzzles/blob/master/contributors.md).
