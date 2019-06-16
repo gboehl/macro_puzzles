@@ -2,7 +2,7 @@
 A collection of **"puzzles"** in macroeconomics
 ---
 
-This repo is collects puzzling evidence and open questions concering macroeconomic research. It aims to be a compilation of the contradictions between economic theory and the empirical evidence. Hopefully it will help us all (and motivated junior researchers) to focus on the importan questions and the big picture, and not to get lost in (technical) details. As such it has some similarity to the list of [Hilbert's Problems](https://en.wikipedia.org/wiki/Hilbert%27s_problems).
+This repo collects puzzling evidence and open questions in macroeconomic research. It aims to be a compilation of the contradictions between economic theory and the empirical evidence. Hopefully it will help us all (and motivated junior researchers) to focus on the importan questions and the big picture, and not to get lost in (technical) details. As such it has some similarity to the list of [Hilbert's Problems](https://en.wikipedia.org/wiki/Hilbert%27s_problems).
 
 Definition of a **puzzle** in this context:
 > A puzzle is a contradiction between theoretical conjectures and empirical evidence
