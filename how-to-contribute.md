@@ -1,6 +1,6 @@
 # How to Contribute
 
-Hello and glad you have input to the list!
+Hello, glad you have input to the list!
 
 I chose git to host this list because it makes collaboration easy while still granting some control over the list. It also reflects the spirit of open source projects, which (in economics) I strongly want to support.
 
@@ -13,7 +13,7 @@ For the [list itself](https://github.com/gboehl/macro_puzzles/blob/master/README
 
 ## contributing to the detailed descriptions
 
-Some puzzles link to a more detailed description. You are also free to add such if a puzzle does not have it, but you would like to get into detail. This is the place to give in-debth explanation of each puzzle in the list and discuss potential solutions from the literature. 
+Some puzzles link to a more detailed description (or at least should do so in the future). You are also free to add such if a puzzle does not have it, but you would like to get into detail. This is the place to give in-debth explanation of each puzzle in the list and discuss potential solutions from the literature. 
 
 For each puzzle, please stick to a rough structure of:
 1. Detailed description of the puzzle
