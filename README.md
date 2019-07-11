@@ -25,7 +25,8 @@ A non-exhaustive list
 * The Risk-Free Rate Puzzle: Why is the risk-free rate so low if agents are so averse to intertemporal substitution? -- Related to the Equity Premium Puzzle above (Weil, 1989, JME)
 * The International Diversification Puzzle: Although international financial markets are highly integrated across the more well-developed countries, investors nevertheless hold portfolios that consist nearly exclusively of domestic assets (Baxter and Jermann, 1997, AER)
 * The Equity Volatility Puzzle: Why is the volatility of stock returns so high (in relation to the short-term real interest rate)? (Campbell, 2003, The American Economist; Shiller, 1981, AER)
-
+* Inflation Persistence Puzzle: Staggered nominal contracts generate price persistence, but fail to account for inflation persistence. (Fuhrer and Moore, QJE, 1995)
+* The Liquidity Puzzle: The  failure of identified monetary policy disturbances to create negative short-run correlations between nominal  interest rates and the money stock. (Mishkin, JoF, 1981)
 
 ---
 See [here](https://github.com/gboehl/macro_puzzles/blob/master/how-to-contribute.md) on how to add an item to the list, and have a look at (and admire) the [list of contributors](https://github.com/gboehl/macro_puzzles/blob/master/contributors.md).
