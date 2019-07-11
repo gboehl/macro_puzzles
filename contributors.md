@@ -3,3 +3,4 @@
 
 * Felix Strobel
 * Gregor Boehl
+* Alexander Meyer-Gohde
