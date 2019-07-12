@@ -20,7 +20,7 @@ This list is thought to be constructive and **not** intended to be a one-sided c
 
 ### Macrofinance
 * **The Credit Spread Puzzle**: Structural models of default calibrated to historical default rates, recovery rates, and Sharpe ratios  typically generate Baa–Aaa credit spreads that are significantly below historical values. *(Chen, Collin-Dufresne, and Goldstein, 2009, RFS)*
-* **The bond premium puzzle**: Macro models cannot explain the large and variable premium on long-term vs short-term bonds. *(Rudebush and Swanson, 2008, JME)*
+* **The Bond Premium Puzzle**: Macro models cannot explain the large and variable premium on long-term vs short-term bonds. *(Rudebush and Swanson, 2008, JME)*
 * **The International Diversification Puzzle**: Although international financial markets are highly integrated across the more well-developed countries, investors nevertheless hold portfolios that consist nearly exclusively of domestic assets. *(Baxter and Jermann, 1997, AER)*
 * **The Price Puzzle**: In many studies, the Fed Fund rate is positively correlated with inflation. *(Bernanke and Blinder, 1992, AER)*
 * **The Risk-Free Rate Puzzle**: Why is the risk-free rate so low if agents are so averse to intertemporal substitution? -- Related to the Equity Premium Puzzle above. *(Weil, 1989, JME)*
