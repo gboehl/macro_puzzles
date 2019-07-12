@@ -14,7 +14,7 @@ This list is thought to be constructive and **not** intended to be a one-sided c
 ### Montary Economics
 * **The Forward Guidance Puzzle**: an expected monetary policy shock in the far future has the same impact as the same shock in the current period. *(Del Negro, Giannoni and Patterson, 2015, FED NY Working Paper)*
 * **The Flat Phillips Curve**: The coefficient of the NK-PC as well as regression coefficients of inflation on unemployment will be very close to zero. *(e.g. Ball and Mazumder, 2011, NBER Working Paper)*
-* **The Monetary Transmission puzzle**: Intertemporal substitution is a too simplistic view on the monetary transmission mechanism. *(e.g. Jappelli and Pistaferri, 2010, Annual Review of Economics)*
+* **The Monetary Transmission Puzzle**: Intertemporal substitution is a too simplistic view on the monetary transmission mechanism. *(e.g. Jappelli and Pistaferri, 2010, Annual Review of Economics)*
 * **Inflation Persistence Puzzle**: Staggered nominal contracts generate price persistence, but fail to account for inflation persistence. *(Fuhrer and Moore, QJE, 1995)*
 * **The Liquidity Puzzle**: The  failure of identified monetary policy disturbances to create negative short-run correlations between nominal interest rates and the money stock. *(Mishkin, JoF, 1981)*
 
@@ -29,7 +29,7 @@ This list is thought to be constructive and **not** intended to be a one-sided c
 
 ### Other
 * **The Rational Expectations Puzzle**: Survey evidence contradicts the rational expectations hypothesis. *(Greenwood and Shleifer, 2014, ReStud)*
-* **The Shimer puzzle**: Basic search-and-matching models cannot explain the volatility in unemployment given the observed volatilty in labor productivity. *(Shimer, 2005, AER)*
+* **The Shimer Puzzle**: Basic search-and-matching models cannot explain the volatility in unemployment given the observed volatilty in labor productivity. *(Shimer, 2005, AER)*
 
 ---
 See [here](https://github.com/gboehl/macro_puzzles/blob/master/how-to-contribute.md) on how to add an item to the list, and have a look at (and admire) the [list of contributors](https://github.com/gboehl/macro_puzzles/blob/master/contributors.md).
