@@ -5,7 +5,7 @@ Contributing is very simple, all you need is an account with github. Many econom
 ## contributing to the list: guideline
 
 For the [list itself](https://github.com/gboehl/macro_puzzles/blob/master/README.md), please keep it short and precise. Each *puzzle* entry should follow the following structure:
-* **Name Of Puzzle**: Short explanation of puzzle. *(citation where puzzle is first mentioned as 'authors', 'year', 'journal')*
+* **The Name-of-puzzle Puzzle**: Short explanation of puzzle. *(citation where puzzle is first mentioned as 'authors', 'year', 'journal')*
 Within each cathegory, puzzles are in reversed chronological order.
 
 ## contributing to the detailed descriptions: guidelines
