@@ -15,6 +15,8 @@ This list is thought to be constructive and **not** intended to be a one-sided c
 * The Forward Guidance Puzzle: standard DSGE models tend to grossly overestimate the impact of Forward Guidance on the macroeconomy (Del Negro, Giannoni and Patterson, 2015, FED NY Working Paper)
 * The Flat Phillips Curve: the coefficient of the NK-PC as well as regression coefficients of inflation on unemployment will be very close to zero (e.g. Ball and Mazumder, 2011, NBER Working Paper)
 * The Monetary Transmission puzzle: intertemporal substitution is a too simplistic view on the monetary transmission mechanism (e.g. Jappelli and Pistaferri, 2010, Annual Review of Economics)
+* Inflation Persistence Puzzle: Staggered nominal contracts generate price persistence, but fail to account for inflation persistence. (Fuhrer and Moore, QJE, 1995)
+* The Liquidity Puzzle: The  failure of identified monetary policy disturbances to create negative short-run correlations between nominal interest rates and the money stock. (Mishkin, JoF, 1981)
 
 ### Macrofinance
 * The bond premium puzzle: macro models cannot explain the large and variable premium on long-term vs short-term bonds (Rudebush and Swanson, 2008, JME)
