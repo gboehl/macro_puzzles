@@ -9,7 +9,7 @@ For the [list itself](https://github.com/gboehl/macro_puzzles/blob/master/README
 
 ## contributing to the detailed descriptions: guidelines
 
-Some puzzles link to a more detailed description (or at least should do so in the future). You are also free to add such if a puzzle does not have it, but you would like to get into detail. This is the place to give in-debth explanation of each puzzle in the list and discuss potential solutions from the literature. 
+Puzzles can be linked to a more detailed description. You are free to add such description if you would like to get into detail. This is the place to give in-debth explanation of each puzzle in the list and discuss potential solutions from the literature. 
 
 For each puzzle, please roughly stick to a structure similar to:
 1. Detailed description of the puzzle
