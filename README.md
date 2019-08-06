@@ -12,9 +12,9 @@ You are much invited to add puzzles. This list is thought to be constructive and
 ## A non-exhaustive list
 
 ### Monetary Economics
-* **The Declining Natural Rate Puzzle**: The natural rate of interest seems to be steadily declining for at least the last two decades. *(Laubach and Williams, 2016, Business Economics)*
+* **The Natural Rate Puzzle**: The natural rate of interest seems to be steadily declining for at least the last two decades. *(Laubach and Williams, 2016, Business Economics)*
 * **The Forward Guidance Puzzle**: An expected monetary policy shock in the far future has the same impact as the same shock in the current period. *(Del Negro, Giannoni and Patterson, 2015, FED NY Working Paper)*
-* **The Flat Phillips Curve**: Estimates of the coefficient of the NK-PC and regression coefficients of inflation on unemployment are very close to zero. *(e.g. Ball and Mazumder, 2011, NBER Working Paper)*
+* **The Flat Phillips Curve Puzzle**: Estimates of the coefficient of the NK-PC and regression coefficients of inflation on unemployment are very close to zero. *(e.g. Ball and Mazumder, 2011, NBER Working Paper)*
 * **The Monetary Transmission Puzzle**: Intertemporal substitution is a too simplistic view on the monetary transmission mechanism. *(e.g. Jappelli and Pistaferri, 2010, Annual Review of Economics)*
 * **The Inflation Persistence Puzzle**: Staggered nominal contracts generate price persistence, but fail to account for inflation persistence. *(Fuhrer and Moore, QJE, 1995)*
 * **The Liquidity Puzzle**: The  failure of identified monetary policy disturbances to create negative short-run correlations between nominal interest rates and the money stock. *(Mishkin, JoF, 1981)*
