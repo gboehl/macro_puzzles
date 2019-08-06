@@ -6,23 +6,21 @@ This repository collects puzzling evidence and open questions in macroeconomic r
 Definition of a **puzzle** in this context:
 > A puzzle is a contradiction between theoretical conjectures and empirical evidence
 
-You are much invited to add puzzles. This list is intended to be constructive and *not* intended to be a one-sided critique on macroeconomics/DSGE models/rational Expectations/parapsychic mind control as a whole. Please be neutral and concise. The [issues](https://github.com/gboehl/pynare/issues) can be used for discussion.
-
-To **contribute**, just edit this file ([here](https://github.com/gboehl/macro_puzzles/blob/master/how-to-contribute.md) I explain how) or [shoot me an email](http://gregorboehl.com/#cta). 
+You are much invited to add puzzles. This list is intended to be constructive and *not* intended to be a one-sided critique on macroeconomics/DSGE models/rational Expectations/parapsychic mind control as a whole. Please be neutral and concise. The [issues](https://github.com/gboehl/pynare/issues) can be used for discussion. To **contribute**, [just edit](https://github.com/gboehl/macro_puzzles/blob/master/how-to-contribute.md) this file or [shoot me an email](http://gregorboehl.com/#cta). 
 
 
 ## A non-exhaustive list
 
 ### Monetary Economics
 * **The Forward Guidance Puzzle**: An expected monetary policy shock in the far future has the same impact as the same shock in the current period. *(Del Negro, Giannoni and Patterson, 2015, FED NY Working Paper)*
-* **The Flat Phillips Curve**: The coefficient of the NK-PC as well as regression coefficients of inflation on unemployment will be very close to zero. *(e.g. Ball and Mazumder, 2011, NBER Working Paper)*
+* **The Flat Phillips Curve**: Estimates of the coefficient of the NK-PC and regression coefficients of inflation on unemployment are very close to zero. *(e.g. Ball and Mazumder, 2011, NBER Working Paper)*
 * **The Monetary Transmission Puzzle**: Intertemporal substitution is a too simplistic view on the monetary transmission mechanism. *(e.g. Jappelli and Pistaferri, 2010, Annual Review of Economics)*
 * **The Inflation Persistence Puzzle**: Staggered nominal contracts generate price persistence, but fail to account for inflation persistence. *(Fuhrer and Moore, QJE, 1995)*
 * **The Liquidity Puzzle**: The  failure of identified monetary policy disturbances to create negative short-run correlations between nominal interest rates and the money stock. *(Mishkin, JoF, 1981)*
 
 ### Inequality
 * **The Rising Markup Puzzle**: Markups on marginal costs and hence the profit share is increasing. *(e.g. Hall, 2018 NBER Working Paper)*
-* **The Fast-Transition Puzzle**: Current models do not do well in explaining the very fast increase rise in wealth concentration since the 1980s. *(Gabaix, Lions and Moll, 2016, Econometrica)*
+* **The Fast-Transition Puzzle**: Current models do not do well in explaining the rapid rise in wealth concentration since the 1980s. *(Gabaix, Lions and Moll, 2016, Econometrica)*
 * **The Falling Labor Share Puzzle**: While classically assumed to be constant, the labor share is falling since the 1980s. *(Karabarbounis and Neiman, 2014, QJE)*
 
 ### Macrofinance
