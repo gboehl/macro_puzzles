@@ -6,7 +6,7 @@ This repository collects puzzling evidence and open questions in macroeconomic r
 Definition of a **puzzle** in this context:
 > A puzzle is a contradiction between theoretical conjectures and empirical evidence
 
-You are much invited to add puzzles. This list is intended to be constructive and *not* intended to be a one-sided critique on macroeconomics/DSGE models/rational Expectations/parapsychic mind control as a whole. Please be neutral and concise. The [issues](https://github.com/gboehl/pynare/issues) can be used for discussion. To **contribute**, [just edit](https://github.com/gboehl/macro_puzzles/blob/master/how-to-contribute.md) this file or [shoot me an email](http://gregorboehl.com/#cta). 
+You are much invited to add puzzles. This list is thought to be constructive and *not* intended to be a one-sided critique on macroeconomics/DSGE models/rational Expectations/parapsychic mind control as a whole. Please be neutral and concise. The [issues](https://github.com/gboehl/pynare/issues) can be used for discussion. To **contribute**, [just edit](https://github.com/gboehl/macro_puzzles/blob/master/how-to-contribute.md) this file or [shoot me an email](http://gregorboehl.com/#cta). 
 
 
 ## A non-exhaustive list
