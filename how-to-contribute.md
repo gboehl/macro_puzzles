@@ -10,7 +10,7 @@ Within each cathegory, puzzles are in reversed chronological order.
 
 ## contributing to the detailed descriptions: guidelines
 
-Puzzles can be linked to a more detailed description. You are free to add such description if you would like to get into detail. This is the place to give in-debth explanation of each puzzle in the list and discuss potential solutions from the literature. 
+If you want, you can add details like literature or links to potential solutions in a separate file. You are free to add such description if you would like to get into detail. This is the place to give in-debth explanation of each puzzle in the list and discuss potential solutions from the literature. 
 
 For each puzzle, please roughly stick to a structure similar to:
 1. Detailed description of the puzzle
