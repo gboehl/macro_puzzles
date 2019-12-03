@@ -27,4 +27,4 @@ For each puzzle, please roughly stick to a structure similar to:
 
 ----
 
-Once you are done, don't forget to add yourself to the `list of contributors <https://github.com/gboehl/macro_puzzles/blob/master/contributors.md>`_\ !
+Once you are done, don't forget to add yourself to the `list of contributors <https://macro-puzzles.readthedocs.io/en/latest/contributors.html>`_\ !

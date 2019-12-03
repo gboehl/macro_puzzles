@@ -88,4 +88,4 @@ Misc
 
 ----
 
-See `here <https://github.com/gboehl/macro_puzzles/blob/master/how-to-contribute.md>`_ on how to add an item to the list, and have a look at (and admire) the `list of contributors <https://github.com/gboehl/macro_puzzles/blob/master/contributors.md>`_.
+See `here <https://macro-puzzles.readthedocs.io/en/latest/htc.html>`_ on how to add an item to the list, and have a look at (and admire) the `list of contributors <https://macro-puzzles.readthedocs.io/en/latest/contributors.html>`_.
