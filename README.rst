@@ -37,7 +37,7 @@ A non-exhaustive list
 Monetary Economics
 ^^^^^^^^^^^^^^^^^^
 
-* **The Neo-Fisherian Puzzle**\ : WIth simple model tweaks, low interest rates are disinflationary. *(Schmitt-Grohé and Uribe, 2017, AER)*
+* **The Neo-Fisherian Puzzle**\ : With simple model tweaks, low interest rates are disinflationary. *(Schmitt-Grohé and Uribe, 2017, AER)*
 * **The Natural Rate Puzzle**\ : The natural rate of interest seems to be steadily declining for at least the last two decades. *(Laubach and Williams, 2016, Business Economics)*
 * **The Forward Guidance Puzzle**\ : An expected monetary policy shock in the far future has the same impact as the same shock in the current period. *(Del Negro, Giannoni and Patterson, 2015, FED NY Working Paper)*
 * **The Flat Phillips Curve Puzzle**\ : Estimates of the coefficient of the NK-PC and regression coefficients of inflation on unemployment are very close to zero (equivalent to the missing deflation/inflation puzzle). *(e.g. Ball and Mazumder, 2011, NBER Working Paper)*
