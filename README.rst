@@ -37,6 +37,7 @@ A non-exhaustive list
 Monetary Economics
 ^^^^^^^^^^^^^^^^^^
 
+* **The Neo-Fisherian Puzzle**\ : WIth simple model tweaks, low interest rates are disinflationary. *(Schmitt-Grohé and Uribe, 2017, AER)*
 * **The Natural Rate Puzzle**\ : The natural rate of interest seems to be steadily declining for at least the last two decades. *(Laubach and Williams, 2016, Business Economics)*
 * **The Forward Guidance Puzzle**\ : An expected monetary policy shock in the far future has the same impact as the same shock in the current period. *(Del Negro, Giannoni and Patterson, 2015, FED NY Working Paper)*
 * **The Flat Phillips Curve Puzzle**\ : Estimates of the coefficient of the NK-PC and regression coefficients of inflation on unemployment are very close to zero (equivalent to the missing deflation/inflation puzzle). *(e.g. Ball and Mazumder, 2011, NBER Working Paper)*
@@ -82,6 +83,7 @@ Labor & Wages
 Misc
 ^^^^
 
+* **The U.S. Pulic Debt Valuation Puzzle**\ : The market value of outstanding U.S. government debt in the exceeds the expected present discounted value of current and future primary surpluses by a multiple of U.S. GDP. *(Jiang et al, 2019, NBER WP 26583)*
 * **The Fiscal Price Puzzle**\ : VAR evidence suggests that inflation tends to decline when government spending increases. *(Jørgensen and Ravn, 2019, unpublished manuscript)*
 * **The Rational Expectations Puzzle**\ : Survey evidence contradicts the rational expectations hypothesis. *(Greenwood and Shleifer, 2014, ReStud)*
 
