@@ -62,5 +62,10 @@ html_theme_options = {
     'github_button': True,
     'github_repo': 'macro_puzzles',
     'github_user': 'gboehl',
-    'sidebar_collapse': False,
+    # 'sidebar_collapse': False,
+    # 'collapse_navigation': True,
+    # 'sticky_navigation': True,
+    # 'navigation_depth': -1,
+    # 'includehidden': True,
+    # 'titles_only': False,
 }

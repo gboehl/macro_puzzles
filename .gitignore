@@ -1,0 +1,6 @@
+_build
+__pycache__/
+*.html
+build
+dist
+pynare.egg-info
