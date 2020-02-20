@@ -1,5 +1,5 @@
 
-macro_puzzles
+Macro Puzzles
 =============
 
 A collection of **"puzzles"** in macroeconomics

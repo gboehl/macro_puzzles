@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.abspath('..'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'macro_puzzles'
+project = 'Macro Puzzles'
 copyright = '2019, Gregor Boehl'
 author = 'Gregor Boehl'
 
