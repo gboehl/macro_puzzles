@@ -26,7 +26,8 @@ Outline
 - `Macrofinance`_
 - `International Macro`_
 - `Labor & Wages`_
-- `Misc`_
+- `Public Finance`_
+- `Behavioral Macro`_
 
 ----
 
@@ -80,11 +81,16 @@ Labor & Wages
 * **The Minimum Wage Puzzle**\ : Portuguese data suggests that increasing minimum wages can lead to a decline of the worker-firms separation rate. *(Portugal and Cardoso, 2006, JEEA)*
 
 
-Misc
-^^^^
+Public Finance
+^^^^^^^^^^^^^^
 
 * **The U.S. Pulic Debt Valuation Puzzle**\ : The market value of outstanding U.S. government debt in the exceeds the expected present discounted value of current and future primary surpluses by a multiple of U.S. GDP. *(Jiang et al, 2019, NBER WP 26583)*
 * **The Fiscal Price Puzzle**\ : VAR evidence suggests that inflation tends to decline when government spending increases. *(Jørgensen and Ravn, 2019, unpublished manuscript)*
+
+
+Behavioral Macro
+^^^^^^^^^^^^^^^^
+
 * **The Rational Expectations Puzzle**\ : Survey evidence contradicts the rational expectations hypothesis. *(Greenwood and Shleifer, 2014, ReStud)*
 
 
