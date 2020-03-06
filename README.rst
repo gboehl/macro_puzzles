@@ -15,7 +15,7 @@ Definition of a **puzzle** in this context:
    and empirical evidence
 
 
-You are much invited to add puzzles. This list is thought to be constructive and *not* intended to be a one-sided critique on macroeconomics/DSGE models/rational Expectations/parapsychic mind control as a whole. Please be neutral and concise. The `issues <https://github.com/gboehl/pynare/issues>`_ can be used for discussion. To **contribute**\ , `just edit <https://github.com/gboehl/macro_puzzles/blob/master/how-to-contribute.md>`_ this file on GitHub or `shoot me an email <http://gregorboehl.com/#cta>`_. 
+You are much invited to add puzzles. This list is thought to be constructive and *not* intended to be a one-sided critique on macroeconomics/DSGE models/rational Expectations/parapsychic mind control as a whole. Please be neutral and concise. The `issues <https://github.com/gboehl/pynare/issues>`_ can be used for discussion. To **contribute**\ , `just edit <https://macro-puzzles.readthedocs.io/en/latest/htc.html>`_ this file on GitHub or `shoot me an email <http://gregorboehl.com/#cta>`_. 
 
 
 Outline
@@ -76,8 +76,9 @@ International Macro
 Labor & Wages
 ^^^^^^^^^^^^^
 
-* **The Shimer Puzzle**\ : Basic search-and-matching models cannot explain the volatility in unemployment given the observed volatilty in labor productivity. *(Shimer, 2005, AER)*
+* **Productivity Puzzle**\ : Labor productivity growth in major advanced economies has markedly slowed since the Great Recession, particularly in the UK. *(Tenreyro, 2018, BoE spreech)*
 * **The Falling Labor Share Puzzle**\ : While classically assumed to be constant, the labor share is falling since the 1980s. *(Karabarbounis and Neiman, 2014, QJE)*
+* **The Shimer Puzzle**\ : Basic search-and-matching models cannot explain the volatility in unemployment given the observed volatilty in labor productivity. *(Shimer, 2005, AER)*
 * **The Minimum Wage Puzzle**\ : Portuguese data suggests that increasing minimum wages can lead to a decline of the worker-firms separation rate. *(Portugal and Cardoso, 2006, JEEA)*
 
 
