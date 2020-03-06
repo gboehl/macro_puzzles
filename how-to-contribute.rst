@@ -11,7 +11,8 @@ For the `list itself <https://github.com/gboehl/macro_puzzles/blob/master/README
 
 
 * **The Name-of-puzzle Puzzle**\ : Short explanation of puzzle. *(citation where puzzle is first mentioned as 'authors', 'year', 'journal')*
-  Within each category, puzzles are in reversed chronological order.
+
+Within each category, puzzles are in reversed chronological order.
 
 
 ----
