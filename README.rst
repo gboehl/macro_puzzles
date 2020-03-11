@@ -15,9 +15,9 @@ Definition of a **puzzle** in this context:
    and empirical evidence
 
 
-You are much invited to add puzzles. This list is thought to be constructive and *not* intended to be a one-sided critique on macroeconomics/DSGE models/rational Expectations/parapsychic mind control as a whole. Please be neutral and concise. The `GitHub issues<https://github.com/gboehl/macro_puzzles/issues>`_ can be used for discussion. 
+You are much invited to add puzzles. This list is thought to be constructive and *not* intended to be a one-sided critique on macroeconomics/DSGE models/rational Expectations/parapsychic mind control as a whole. Please be neutral and concise. The `GitHub issues <https://github.com/gboehl/macro_puzzles/issues>`_ can be used for discussion. 
 
-To **_`contribute_**\, `just edit this file<https://github.com/gboehl/macro_puzzles/blob/master/README.rst>`_ on GitHub or `shoot me an email <http://gregorboehl.com/#cta>`_. Here is a short _`guide<https://macro-puzzles.readthedocs.io/en/latest/htc.html>`_ as well.
+To **_contribute_**\, just edit `this file <https://github.com/gboehl/macro_puzzles/blob/master/README.rst>`_ on GitHub or shoot me an `email <http://gregorboehl.com/#cta>`_. Here is a short `guide <https://macro-puzzles.readthedocs.io/en/latest/htc.html>`_ as well.
 .
 
 
@@ -100,4 +100,4 @@ Behavioral Macro
 
 ----
 
-See `here <https://macro-puzzles.readthedocs.io/en/latest/htc.html>`_ on how to add an item to the list, and have a look at (and admire) the `list of contributors <https://macro-puzzles.readthedocs.io/en/latest/contributors.html>`_.
+See `here <https://macro-puzzles.readthedocs.io/en/latest/htc.html>`_ on how to add an item to the list, and admire the `list of contributors <https://macro-puzzles.readthedocs.io/en/latest/contributors.html>`_.
