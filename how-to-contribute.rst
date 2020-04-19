@@ -2,7 +2,10 @@
 How to Contribute
 =================
 
-Contributing is very simple, all you need is an account with github. In case you don't have one yet, you can open it in less than a minute (and of course for free). When logged in, select the file you want to edit (for example the `list <https://github.com/gboehl/macro_puzzles/blob/master/README.rst>`_\ ), and click the small edit button (the pen). Just click the green 'propose file change' button at the bottom when you are finished.
+Contributing is simple, all you need is an account with github. In case you don't have one yet, you can open it in less than a minute (and of course for free). When logged in, select the file you want to edit and click the edit button (the pen). Hit the `propose file change` button at the bottom once you are finished.
+
+If you are an experienced Github user, you can also just fork this repo and submit a pull request (PR) with proposed additions. Please keep one puzzle per per pull request.
+
 
 Guideline
 -----------------------------------
