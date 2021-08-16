@@ -5,7 +5,7 @@ Macro Puzzles
 A collection of **"puzzles"** in macroeconomics
 ---------------------------------------------------
 
-This repository collects puzzling evidence and open questions in macroeconomic research. It aims to be a compilation of the contradictions between economic theory and the empirical evidence. Hopefully it will help us all (and motivated junior researchers) to focus on the important questions and the big picture. As such it has some similarity to the list of `Hilbert's Problems <https://en.wikipedia.org/wiki/Hilbert%27s_problems>`_.
+This repository collects puzzling evidence, paradoxes, and open questions in macroeconomic research. It aims to be a compilation of the contradictions between economic theory and the empirical evidence. Hopefully it will help (in particular, motivated junior researchers) to focus on the important questions and the big picture. As such it has some similarity to the list of `Hilbert's Problems <https://en.wikipedia.org/wiki/Hilbert%27s_problems>`_.
 
 Definition of a **puzzle** in this context:
 
@@ -41,6 +41,8 @@ A non-exhaustive list
 Monetary Economics
 ^^^^^^^^^^^^^^^^^^
 
+
+* **The Paradox of Flexibility**\ : Greater price flexibility worsens the recession in a liquidity trap. *(Diba and Loisel, 2021, JME)*
 * **The Neo-Fisherian Puzzle**\ : With simple model tweaks, low interest rates are disinflationary. *(Schmitt-Grohé and Uribe, 2017, AER)*
 * **The Natural Rate Puzzle**\ : The natural rate of interest seems to be steadily declining for at least the last two decades. *(Laubach and Williams, 2016, Business Economics)*
 * **The Forward Guidance Puzzle**\ : An expected monetary policy shock in the far future has the same impact as the same shock in the current period. *(Del Negro, Giannoni and Patterson, 2015, FED NY Working Paper)*
@@ -64,7 +66,7 @@ Macrofinance
 * **The Bond Premium Puzzle**\ : Macro models cannot explain the large and variable premium on long-term vs short-term bonds. *(Rudebush and Swanson, 2008, JME)*
 * **The Declining Savings Puzzle**\ : The U.S. personal saving rate declined from 11 percent to 3 percent between 1980 and 2007. *(Guidolin and Jeunesse, 2007 St. Louis Fed Review)*
 * **The Price Puzzle**\ : In many studies, the Fed Fund rate is positively correlated with inflation. *(Bernanke and Blinder, 1992, AER)*
-* **The Risk-Free Rate Puzzle**\ : Why is the risk-free rate so low if agents are so averse to intertemporal substitution? -- Related to the Equity Premium Puzzle above. *(Weil, 1989, JME)*
+* **The Risk-Free Rate Puzzle**\ : Why is the risk-free rate so low if agents are so averse to intertemporal substitution? -- Related to the Equity Premium Puzzle. *(Weil, 1989, JME)*
 * **The Equity Premium Puzzle**\ : Macro models require an implausibly high degree of risk aversion to explain the premium of stocks over "safe" bonds. *(Mehra and Prescott, 1985, JME)*
 * **The Equity Volatility Puzzle**\ : Why is the volatility of stock returns so high (in relation to the short-term real interest rate)? *(Campbell, 2003, The American Economist; Shiller, 1981, AER)*
 
@@ -81,6 +83,7 @@ Labor & Wages
 
 * **Productivity Puzzle**\ : Labor productivity growth in major advanced economies has markedly slowed since the Great Recession, particularly in the UK. *(Tenreyro, 2018, BoE spreech)*
 * **The Falling Labor Share Puzzle**\ : While classically assumed to be constant, the labor share is falling since the 1980s. *(Karabarbounis and Neiman, 2014, QJE)*
+* **The Paradox of Toil**\ : (Anticipated) positive supply shocks are contractionary in a liquidity trap. *(Eggertson, 2010, NY-FED Staff Reports)*
 * **The Shimer Puzzle**\ : Basic search-and-matching models cannot explain the volatility in unemployment given the observed volatilty in labor productivity. *(Shimer, 2005, AER)*
 * **The Minimum Wage Puzzle**\ : Portuguese data suggests that increasing minimum wages can lead to a decline of the worker-firms separation rate. *(Portugal and Cardoso, 2006, JEEA)*
 
@@ -90,6 +93,7 @@ Public Finance
 
 * **The U.S. Pulic Debt Valuation Puzzle**\ : The market value of outstanding U.S. government debt in the exceeds the expected present discounted value of current and future primary surpluses by a multiple of U.S. GDP. *(Jiang et al, 2019, NBER WP 26583)*
 * **The Fiscal Price Puzzle**\ : VAR evidence suggests that inflation tends to decline when government spending increases. *(Jørgensen and Ravn, 2019, unpublished manuscript)*
+* **The Fiscal Multiplier Puzzle**\ : Asymptotically, the power of a fiscal expansion grows exponentially with the expected duration of a liquidity trap. *(Farhi and Werning, 2016, Handbook of Macroeconomics)*
 
 
 Behavioral Macro
