@@ -84,7 +84,7 @@ Labor & Wages
 * **Productivity Puzzle**\ : Labor productivity growth in major advanced economies has markedly slowed since the Great Recession, particularly in the UK. *(Tenreyro, 2018, BoE spreech)*
 * **The Falling Labor Share Puzzle**\ : While classically assumed to be constant, the labor share is falling since the 1980s. *(Karabarbounis and Neiman, 2014, QJE)*
 * **The Paradox of Toil**\ : (Anticipated) positive supply shocks are contractionary in a liquidity trap. *(Eggertson, 2010, NY-FED Staff Reports)*
-* **The Shimer Puzzle**\ : Basic search-and-matching models cannot explain the volatility in unemployment given the observed volatilty in labor productivity. *(Shimer, 2005, AER)*
+* **The Shimer Puzzle**\ : Basic search-and-matching models cannot explain the volatility in unemployment given the observed volatility in labor productivity. *(Shimer, 2005, AER)*
 * **The Minimum Wage Puzzle**\ : Portuguese data suggests that increasing minimum wages can lead to a decline of the worker-firms separation rate. *(Portugal and Cardoso, 2006, JEEA)*
 
 
